@@ -1,7 +1,8 @@
-## Hi there 👋
-
+![hyeji](https://github.com/user-attachments/assets/9ef3a36b-45ce-4b67-93fb-37d77222122c)
 <!--
 **hjkim977/hjkim977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
