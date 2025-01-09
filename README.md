@@ -1,6 +1,5 @@
 <div align="center">
-
-![image](https://github.com/user-attachments/assets/fb4ccb6b-62a5-480f-a786-c460ee305537)
+  
 ![main](https://github.com/user-attachments/assets/3dbe0b26-5bda-427c-926e-7c38f7883f71)
 
 ## 💡 Tech Stack 💡
