@@ -1,6 +1,6 @@
 <div align="center">
-  
-![main](https://github.com/user-attachments/assets/3dbe0b26-5bda-427c-926e-7c38f7883f71)
+
+![깃허브메인](https://github.com/user-attachments/assets/e5f311a1-0f5b-426b-9dd1-43991f02ed44)
 
 ## 💡 Tech Stack 💡
 <img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
