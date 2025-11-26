@@ -13,10 +13,6 @@
 <img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
 <br></br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjkim977&layout=donut">
-<br></br>
-<br></br>
-
 ## 📑 Certifications 📑
 |이름|취득날짜|
 |:---:|:---:|
