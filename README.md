@@ -7,7 +7,7 @@
 
 **🖐️안녕하세요! 김혜지 입니다.🖐️**
 
-**✏️저는 정보통신과를 전공했지만 지금까지 전공과 다른 삶을 살았어요.**
+**✏️저는 정보통신과를 전공했지만 지금까지 전공과 다른 삶을 살았습니다.**
 
 **지금은 개발자를 꿈꾸고 이를 위해 열심히 나아가는 중입니다!🚀**
 
@@ -22,11 +22,14 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <br></br>
 <img src="https://img.shields.io/badge/docker-B8DBE4?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/github-CCFF00?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-FF9699?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/django-FBA457?style=for-the-badge&logo=django&logoColor=white">
+<br></br>
+<img src="https://img.shields.io/badge/github-CCFF00?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-445C6D?style=for-the-badge&logo=notion&logoColor=white">
 
 <br></br>
+
 ### 📑 Certifications 📑
 |이름|취득날짜|
 |:---:|:---:|
