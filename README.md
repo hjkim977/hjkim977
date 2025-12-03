@@ -1,18 +1,31 @@
 <div align="center">
 
-![깃허브메인](https://github.com/user-attachments/assets/e5f311a1-0f5b-426b-9dd1-43991f02ed44)
+<img width="1000" height="400" alt="리드미" src="https://github.com/user-attachments/assets/55d5d2bf-1f30-4cd8-b343-a16a463a8dfb" />
 
-## 💡 Tech Stack 💡
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django3.svg">
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg">
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg">
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg">
-<img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
 <br></br>
 
+
+**🖐️안녕하세요! 김혜지 입니다.🖐️**
+
+**✏️저는 정보통신과를 전공했지만 지금까지 전공과 다른 삶을 살았어요.**
+
+**지금은 개발자를 꿈꾸고 이를 위해 열심히 나아가는 중입니다!🚀**
+
+<br></br>
+
+## 🖥️ Skills 🖥️
+<img src="https://img.shields.io/badge/python-40AEF0?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/html5-EF2D5E?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<br></br>
+<img src="https://img.shields.io/badge/docker-B8DBE4?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/github-CCFF00?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-FF9699?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/django-FBA457?style=for-the-badge&logo=django&logoColor=white">
+
+<br></br>
 ## 📑 Certifications 📑
 |이름|취득날짜|
 |:---:|:---:|
