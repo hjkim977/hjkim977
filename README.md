@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1000" height="400" alt="리드미" src="https://github.com/user-attachments/assets/55d5d2bf-1f30-4cd8-b343-a16a463a8dfb" />
+<img width="1000" height="400" alt="리드미_혜지" src="https://github.com/user-attachments/assets/7de66dba-d5c4-491a-b9fd-5c5019c295f8" />
 
 <br></br>
 
@@ -13,7 +13,8 @@
 
 <br></br>
 
-## 🖥️ Skills 🖥️
+### 🖥️ Skills 🖥️
+
 <img src="https://img.shields.io/badge/python-40AEF0?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html5-EF2D5E?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
@@ -26,7 +27,7 @@
 <img src="https://img.shields.io/badge/django-FBA457?style=for-the-badge&logo=django&logoColor=white">
 
 <br></br>
-## 📑 Certifications 📑
+### 📑 Certifications 📑
 |이름|취득날짜|
 |:---:|:---:|
 |SQLD|2024.04.05|
@@ -35,6 +36,10 @@
 |워드프로세서|2020.10.23|
 |정보처리 산업기사|2020.06.26|
 |컴퓨터 활용능력 1급|2020.05.22|
+
+<br></br>
+
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=e0eg0g)](https://solved.ac/e0eg0g/)
 
 </div>
 
