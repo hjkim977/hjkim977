@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1000" height="400" alt="리드미_혜지" src="https://github.com/user-attachments/assets/7de66dba-d5c4-491a-b9fd-5c5019c295f8" />
+<img width="1000" height="400" alt="readme" src="https://github.com/user-attachments/assets/5a49f193-210a-414d-96b2-785118313e5d" />
 
 <br></br>
 
